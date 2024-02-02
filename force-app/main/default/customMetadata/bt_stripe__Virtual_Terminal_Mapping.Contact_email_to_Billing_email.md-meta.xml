@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Contact email to Billing email</label>
+    <protected>false</protected>
+    <values>
+        <field>bt_stripe__Screen__c</field>
+        <value xsi:type="xsd:string">New Payment Method</value>
+    </values>
+    <values>
+        <field>bt_stripe__Source_Field__c</field>
+        <value xsi:type="xsd:string">Email</value>
+    </values>
+    <values>
+        <field>bt_stripe__Source_Object__c</field>
+        <value xsi:type="xsd:string">Contact</value>
+    </values>
+    <values>
+        <field>bt_stripe__Source_Parent_Field__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>bt_stripe__Source_Parent_Object__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>bt_stripe__Target_Field__c</field>
+        <value xsi:type="xsd:string">bt_stripe__Billing_Email__c</value>
+    </values>
+    <values>
+        <field>bt_stripe__Target_Object__c</field>
+        <value xsi:type="xsd:string">bt_stripe__Payment_Method__c</value>
+    </values>
+</CustomMetadata>
