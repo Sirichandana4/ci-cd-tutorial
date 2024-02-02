@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customLabels>
+        <label><!-- Action Label Used in Refer a People --></label>
+        <name>bt_stripe__ActionLabelCancel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Action Label Used in Refer a People --></label>
+        <name>bt_stripe__ActionLabelSend</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Back --></label>
+        <name>bt_stripe__Back</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Billing_Not_Supported --></label>
+        <name>bt_stripe__Billing_Not_Supported</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Blackthorn Paylink Package Version --></label>
+        <name>bt_stripe__Blackthorn_Paylink_Package_Version</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cancel --></label>
+        <name>bt_stripe__Btn_Cancel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Save --></label>
+        <name>bt_stripe__Btn_Save</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cannot_Cancel_Payout --></label>
+        <name>bt_stripe__Cannot_Cancel_Payout</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cannot_Update_Evidemce --></label>
+        <name>bt_stripe__Cannot_Update_Evidemce</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ChargeFlow_Account --></label>
+        <name>bt_stripe__ChargeFlow_Account</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ChargeFlow_Amount --></label>
+        <name>bt_stripe__ChargeFlow_Amount</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ChargeFlow_CVV --></label>
+        <name>bt_stripe__ChargeFlow_CVV</name>
+    </customLabels>
+    <customLabels>
+        <label>custom card holder name</label>
+        <name>bt_stripe__ChargeFlow_Card_Holder_Name</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ChargeFlow_Card_Number --></label>
+        <name>bt_stripe__ChargeFlow_Card_Number</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ChargeFlow_Charge_Card --></label>
+        <name>bt_stripe__ChargeFlow_Charge_Card</name>
+    </customLabels>
+    <customLabels>
+        <label>custom charge description</label>
+        <name>bt_stripe__ChargeFlow_Charge_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ChargeFlow_Contact --></label>
+        <name>bt_stripe__ChargeFlow_Contact</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ChargeFlow_Currency --></label>
+        <name>bt_stripe__ChargeFlow_Currency</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ChargeFlow_Email --></label>
+        <name>bt_stripe__ChargeFlow_Email</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ChargeFlow_Exp_Month --></label>
+        <name>bt_stripe__ChargeFlow_Exp_Month</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ChargeFlow_Exp_Year --></label>
+        <name>bt_stripe__ChargeFlow_Exp_Year</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ChargeFlow_Payment_Details --></label>
+        <name>bt_stripe__ChargeFlow_Payment_Details</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ChargeFlow_Payment_Gateway --></label>
+        <name>bt_stripe__ChargeFlow_Payment_Gateway</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ChargeFlow_Please_Wait --></label>
+        <name>bt_stripe__ChargeFlow_Please_Wait</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ChargeFlow_Postal_Code --></label>
+        <name>bt_stripe__ChargeFlow_Postal_Code</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ChargeFlow_Related_To --></label>
+        <name>bt_stripe__ChargeFlow_Related_To</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Action Label Used in Chat button --></label>
+        <name>bt_stripe__ChatLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Connected_Account_StripeIdMissing --></label>
+        <name>bt_stripe__Connected_Account_StripeIdMissing</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Create_Payment_Method --></label>
+        <name>bt_stripe__Create_Payment_Method</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Dispute_Cannot_be_Accepted --></label>
+        <name>bt_stripe__Dispute_Cannot_be_Accepted</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Transfer_GroupId_Missing --></label>
+        <name>bt_stripe__Draft_Invoice_Updates_Only</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ExternalAccount_ConnectedAccountStripeIdMissing --></label>
+        <name>bt_stripe__ExternalAccount_ConnectedAccountStripeIdMissing</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- used as header labels of the builder component --></label>
+        <name>bt_stripe__HeaderReferPeopleLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- InvidualAccount_OneContactAllowed --></label>
+        <name>bt_stripe__InvidualAccount_OneContactAllowed</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- LostDispute_EvidenceInsert --></label>
+        <name>bt_stripe__LostDispute_EvidenceInsert</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Only_OneEvidence_Allowed --></label>
+        <name>bt_stripe__Only_OneEvidence_Allowed</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Platform_Keys_Missing --></label>
+        <name>bt_stripe__Platform_Keys_Missing</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Stripe_Connect_Not_Supported --></label>
+        <name>bt_stripe__Stripe_Connect_Not_Supported</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Transfer_GroupId_Missing --></label>
+        <name>bt_stripe__Transfer_GroupId_Missing</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- VT Action --></label>
+        <name>bt_stripe__VT_Action</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Process Type Picklist --></label>
+        <name>bt_stripe__VT_ActionPicklistValue_NewPM</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Process Type Picklist --></label>
+        <name>bt_stripe__VT_ActionPicklistValue_SingleCharge</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- VT Amount --></label>
+        <name>bt_stripe__VT_Amount</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- VT Custom Charge and PM Disabled --></label>
+        <name>bt_stripe__VT_ChargeAndPM_Disabled</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- VT Currency --></label>
+        <name>bt_stripe__VT_Currency</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- VT Custom Error Message --></label>
+        <name>bt_stripe__VT_Custom_Error_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- VT Header --></label>
+        <name>bt_stripe__VT_Header</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- VT Payment Method Success Message --></label>
+        <name>bt_stripe__VT_PM_Success_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- VT Parent Object --></label>
+        <name>bt_stripe__VT_Parent_Object</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- VT Payment Method --></label>
+        <name>bt_stripe__VT_Payment_Method</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Process Type Picklist --></label>
+        <name>bt_stripe__VT_PicklistValue_Authorize_Now</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Process Type Picklist --></label>
+        <name>bt_stripe__VT_PicklistValue_Auto_Process</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Process Type Picklist --></label>
+        <name>bt_stripe__VT_PicklistValue_Capture_Now</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- VT Process Type --></label>
+        <name>bt_stripe__VT_Process_Type</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- VT Related To --></label>
+        <name>bt_stripe__VT_Related_To</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Auth Needed --></label>
+        <name>bt_stripe__VT_Terminal_AuthNeeded_Header</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Loading Error Header --></label>
+        <name>bt_stripe__VT_Terminal_Loading_Error_Header</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Payment Method Success Header --></label>
+        <name>bt_stripe__VT_Terminal_PMSuccess_Header</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Payment Method error --></label>
+        <name>bt_stripe__VT_Terminal_PaymentMethodFailed_Error_Header</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Transaction Error --></label>
+        <name>bt_stripe__VT_Terminal_TransactionFailed_Error_Header</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Transaction Success Header --></label>
+        <name>bt_stripe__VT_Terminal_TransactionSuccess_Header</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- VT Transaction Error Message --></label>
+        <name>bt_stripe__VT_Transaction_Failed_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- VT Transaction Error Message --></label>
+        <name>bt_stripe__VT_Transaction_Pending_Auth</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- VT Transaction Success Message --></label>
+        <name>bt_stripe__VT_Transaction_Success_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- labels for actions --></label>
+        <name>conference360__EW_ActionAddDetails</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- labels for actions --></label>
+        <name>conference360__EW_ActionDelete</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- labels for actions --></label>
+        <name>conference360__EW_ActionEdit</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- display it on clone box on main screen(Create Event Step1) --></label>
+        <name>conference360__EW_CloneEventLabelHeader</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- display it on clone box on main screen(Create Event Step1) --></label>
+        <name>conference360__EW_CloneEventLabelSubTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- label for banner image upload --></label>
+        <name>conference360__EW_EventCreateBanner</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- label for profile photo upload --></label>
+        <name>conference360__EW_EventCreateSpeakerProfilePhoto</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- label for profile photo button --></label>
+        <name>conference360__EW_EventCreateSpeakerUploadPhoto</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- general validation error for speaker create logic --></label>
+        <name>conference360__EW_EventCreateSpeakerValidation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- label for upload banner button --></label>
+        <name>conference360__EW_EventCreateUploadBanner</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- sucess message show when the event is published --></label>
+        <name>conference360__EW_EventPublished</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- label for select webcast button --></label>
+        <name>conference360__EW_EventSelectWebcast</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Header for Event Theme --></label>
+        <name>conference360__EW_EventThemeHeader</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- sucess message show when the event is unpublished --></label>
+        <name>conference360__EW_EventUnPublished</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Event Wizard Title on Main Screen(Create Event Step1) --></label>
+        <name>conference360__EW_EventWizard</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Short description on main screen(Create Event Step1) --></label>
+        <name>conference360__EW_EventWizardShortDesc</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- used as header labels of the builder component --></label>
+        <name>conference360__EW_HeaderFeedbackLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- label for navigation --></label>
+        <name>conference360__EW_Navigation_Attendee</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- label for navigation --></label>
+        <name>conference360__EW_Navigation_Details</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- label for navigation --></label>
+        <name>conference360__EW_Navigation_Look_Feel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- label for navigation --></label>
+        <name>conference360__EW_Navigation_Sessions</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- label for navigation --></label>
+        <name>conference360__EW_Navigation_Speakers</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- label for navigation --></label>
+        <name>conference360__EW_Navigation_Start</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- label for navigation --></label>
+        <name>conference360__EW_Navigation_Tickets</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- display it on new event box on main screen(Create Event Step1) --></label>
+        <name>conference360__EW_NewEventLabelHeader</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- display it on new event box on main screen(Create Event Step1) --></label>
+        <name>conference360__EW_NewEventLabelSubTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- labels for ticket type dropdown --></label>
+        <name>conference360__EW_TicketTypeDonation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- labels for ticket type dropdown --></label>
+        <name>conference360__EW_TicketTypeNewTicket</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- labels for ticket type dropdown --></label>
+        <name>conference360__EW_TicketTypeProduct</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Actions labels used in toolbar of the builder component --></label>
+        <name>conference360__EW_ToolBarActionBack</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Actions labels used in toolbar of the builder component --></label>
+        <name>conference360__EW_ToolBarActionCancel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Actions labels used in toolbar of the builder component --></label>
+        <name>conference360__EW_ToolBarActionComplete</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Actions labels used in toolbar of the builder component --></label>
+        <name>conference360__EW_ToolBarActionNew</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Actions labels used in toolbar of the builder component --></label>
+        <name>conference360__EW_ToolBarActionNext</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Actions labels used in toolbar of the builder component --></label>
+        <name>conference360__EW_ToolBarActionPreview</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Actions labels used in toolbar of the builder component --></label>
+        <name>conference360__EW_ToolBarActionPrevious</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Actions labels used in toolbar of the builder component --></label>
+        <name>conference360__EW_ToolBarActionPublish</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Actions labels used in toolbar of the builder component --></label>
+        <name>conference360__EW_ToolBarActionSave</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Actions labels used in toolbar of the builder component --></label>
+        <name>conference360__EW_ToolBarActionSend</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Actions labels used in toolbar of the builder component --></label>
+        <name>conference360__EW_ToolBarActionSkip</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Actions labels used in toolbar of the builder component --></label>
+        <name>conference360__EW_WebcastNew</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- used as header labels of the builder component --></label>
+        <name>conference360__EW_WizardBannerUploadHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- used as tooltip in wizard for Session Banner --></label>
+        <name>conference360__EW_WizardSessionBannerUploadHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- used as tooltip in wizard for Profile Photo in Speaker UI --></label>
+        <name>conference360__EW_WizardSpeakerUploadHelp</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cannot enable Event Item Waitlisting --></label>
+        <name>conference360__EventItem_Waitlist_Cannot_Enable</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cannot enable Event Waitlisting --></label>
+        <name>conference360__Event_Waitlist_Cannot_Enable</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- used as header labels of the builder component --></label>
+        <name>conference360__HeaderReferPeopleLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Waitlis is full --></label>
+        <name>conference360__Waitlist_Full</name>
+    </customLabels>
+    <customTabs>
+        <label><!-- Getting Started --></label>
+        <name>Getting_Started</name>
+    </customTabs>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <inputParameters>
+                        <name>accountId</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>chargeAmount</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>chargeCurrency</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>chargeDescription</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>chargeParentId</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>chargePaymentGatewayId</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>contactId</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>paymentMethodId</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>transactionId</name>
+                        <value/>
+                    </inputParameters>
+                    <name>PaymentChargeFlow</name>
+                </fields>
+                <name>PaymentCharge</name>
+            </screens>
+        </flows>
+        <fullName>PaymentChargeFlow</fullName>
+    </flowDefinitions>
+    <quickActions>
+        <label><!-- Guest Community Case --></label>
+        <name>GuestCommunityCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- LogACall --></label>
+        <name>LogACall</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewAccount --></label>
+        <name>NewAccount</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewCase --></label>
+        <name>NewCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Community Case --></label>
+        <name>NewCommunityCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewContact --></label>
+        <name>NewContact</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewEvent --></label>
+        <name>NewEvent</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewGroup --></label>
+        <name>NewGroup</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewLead --></label>
+        <name>NewLead</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewNote --></label>
+        <name>NewNote</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewOpportunity --></label>
+        <name>NewOpportunity</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewTask --></label>
+        <name>NewTask</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SendEmail --></label>
+        <name>SendEmail</name>
+    </quickActions>
+    <reportTypes>
+        <description><!-- Accounts with Entitlements with Contacts --></description>
+        <label><!-- Accounts with Entitlements with Contacts --></label>
+        <name>Accounts_with_Entitlements_with_Contacts</name>
+        <sections>
+            <label><!-- Accounts --></label>
+            <name>Accounts</name>
+        </sections>
+        <sections>
+            <label><!-- Contacts --></label>
+            <name>Contacts</name>
+        </sections>
+        <sections>
+            <label><!-- Entitlements --></label>
+            <name>Entitlements</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Service Contracts with Contract Line Items --></description>
+        <label><!-- Service Contracts with Contract Line Items --></label>
+        <name>Service_Contracts_with_Contract_Line_Items</name>
+        <sections>
+            <label><!-- Contract Line Items --></label>
+            <name>Contract Line Items</name>
+        </sections>
+        <sections>
+            <label><!-- Service Contracts --></label>
+            <name>Service Contracts</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Service Contracts with Entitlements --></description>
+        <label><!-- Service Contracts with Entitlements --></label>
+        <name>Service_Contracts_with_Entitlements</name>
+        <sections>
+            <label><!-- Entitlements --></label>
+            <name>Entitlements</name>
+        </sections>
+        <sections>
+            <label><!-- Service Contracts --></label>
+            <name>Service Contracts</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Screen Flows --></description>
+        <label><!-- Screen Flows --></label>
+        <name>screen_flows_prebuilt_crt</name>
+        <sections>
+            <label><!-- Flow Interview Log Entries --></label>
+            <name>Flow Interview Log Entries</name>
+        </sections>
+        <sections>
+            <label><!-- Flow Interview Logs --></label>
+            <name>Flow Interview Logs</name>
+        </sections>
+    </reportTypes>
+</Translations>
